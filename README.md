@@ -58,6 +58,6 @@ The system consists of the following main components:
 ![Picsart_25-06-05_12-14-42-110](https://github.com/user-attachments/assets/00aef1a6-17a1-4829-8fac-b0aa2500d6f6)
 
 ## Contributing Teammates
-- E Sujaya
+- [E Sujaya](https://github.com/Sujaya-E)
 - Shashank Padavalkar
 - Sambhram Doddamane
