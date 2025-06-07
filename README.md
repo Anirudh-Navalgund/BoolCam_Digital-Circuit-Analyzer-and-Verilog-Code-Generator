@@ -59,5 +59,5 @@ The system consists of the following main components:
 
 ## Contributing Teammates
 - [E Sujaya](https://github.com/Sujaya-E)
-- Shashank Padavalkar
+- [Shashank Padavalkar](https://github.com/Shashank-Padavalkar)
 - Sambhram Doddamane
