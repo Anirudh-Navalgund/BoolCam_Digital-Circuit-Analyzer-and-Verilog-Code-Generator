@@ -1,4 +1,4 @@
-# 📸 BoolCam - Digital Circuit Analyzer and Verilog Code Generator
+# 📸 LogiCam - Digital Circuit Analyzer and Verilog Code Generator
 An edge-deployable system that scans hand-drawn or printed logic  circuits via phone's camera, detects logic gates using deep learning,
 assigns variables to input and output connections, and generates the corresponding Boolean expression.
 Additionally, the system also generates the equivalent Verilog code for simulation.
